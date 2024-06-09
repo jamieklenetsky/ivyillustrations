@@ -1,0 +1,161 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ivy&#x27;s Illustrations",
+    "description": "",
+    "home_page_url": "https://jamieklenetsky.github.io/ivyillustrations",
+    "feed_url": "https://jamieklenetsky.github.io/ivyillustrations/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ivy Klenetsky Halber"
+    },
+    "items": [
+        {
+            "id": "https://jamieklenetsky.github.io/ivyillustrations/jamie-and-brendan.html",
+            "url": "https://jamieklenetsky.github.io/ivyillustrations/jamie-and-brendan.html",
+            "title": "Jamie &amp; Brendan",
+            "summary": "Jamie &amp; Brendan, 2015",
+            "content_html": "<p>Jamie &amp; Brendan, 2015</p>",
+            "image": "https://jamieklenetsky.github.io/ivyillustrations/media/posts/16/IMG_20150818_134552766_HDR-e1440943735808.jpg",
+            "author": {
+                "name": "Ivy Klenetsky Halber"
+            },
+            "tags": [
+            ],
+            "date_published": "2015-08-30T10:09:16-04:00",
+            "date_modified": "2024-06-09T09:23:04-04:00"
+        },
+        {
+            "id": "https://jamieklenetsky.github.io/ivyillustrations/bride.html",
+            "url": "https://jamieklenetsky.github.io/ivyillustrations/bride.html",
+            "title": "Bride",
+            "summary": "Bride, 2015",
+            "content_html": "<p>Bride, 2015</p>",
+            "image": "https://jamieklenetsky.github.io/ivyillustrations/media/posts/15/Bride-e1440943567730.jpg",
+            "author": {
+                "name": "Ivy Klenetsky Halber"
+            },
+            "tags": [
+            ],
+            "date_published": "2015-08-30T10:06:24-04:00",
+            "date_modified": "2024-06-09T08:36:57-04:00"
+        },
+        {
+            "id": "https://jamieklenetsky.github.io/ivyillustrations/uncle-sam.html",
+            "url": "https://jamieklenetsky.github.io/ivyillustrations/uncle-sam.html",
+            "title": "Uncle Sam",
+            "summary": "Uncle Sam - 2015",
+            "content_html": "<p>Uncle Sam - 2015</p>",
+            "image": "https://jamieklenetsky.github.io/ivyillustrations/media/posts/8/unnamed-e1438815951270.jpg",
+            "author": {
+                "name": "Ivy Klenetsky Halber"
+            },
+            "tags": [
+            ],
+            "date_published": "2015-07-26T19:20:27-04:00",
+            "date_modified": "2024-06-09T08:37:05-04:00"
+        },
+        {
+            "id": "https://jamieklenetsky.github.io/ivyillustrations/portrait-of-kathy.html",
+            "url": "https://jamieklenetsky.github.io/ivyillustrations/portrait-of-kathy.html",
+            "title": "Portrait of Kathy",
+            "summary": "Portrait of Kathy - 2013",
+            "content_html": "<p>Portrait of Kathy - 2013</p>",
+            "image": "https://jamieklenetsky.github.io/ivyillustrations/media/posts/9/Klenetsky_Ivy_1-1.jpg",
+            "author": {
+                "name": "Ivy Klenetsky Halber"
+            },
+            "tags": [
+            ],
+            "date_published": "2015-07-26T19:19:47-04:00",
+            "date_modified": "2024-06-09T08:37:18-04:00"
+        },
+        {
+            "id": "https://jamieklenetsky.github.io/ivyillustrations/david-reading.html",
+            "url": "https://jamieklenetsky.github.io/ivyillustrations/david-reading.html",
+            "title": "David Reading",
+            "summary": "David Reading - 2013",
+            "content_html": "<p>David Reading - 2013</p>",
+            "image": "https://jamieklenetsky.github.io/ivyillustrations/media/posts/10/Klenetsky_Ivy_2987x1000.jpg",
+            "author": {
+                "name": "Ivy Klenetsky Halber"
+            },
+            "tags": [
+            ],
+            "date_published": "2015-07-26T19:18:54-04:00",
+            "date_modified": "2024-06-09T08:37:28-04:00"
+        },
+        {
+            "id": "https://jamieklenetsky.github.io/ivyillustrations/portrait-of-a-woman.html",
+            "url": "https://jamieklenetsky.github.io/ivyillustrations/portrait-of-a-woman.html",
+            "title": "Portrait of a Woman",
+            "image": "https://jamieklenetsky.github.io/ivyillustrations/media/posts/11/Klenetsky_Ivy_4.jpg",
+            "author": {
+                "name": "Ivy Klenetsky Halber"
+            },
+            "tags": [
+            ],
+            "date_published": "2015-07-26T19:17:10-04:00",
+            "date_modified": "2024-06-09T08:37:37-04:00"
+        },
+        {
+            "id": "https://jamieklenetsky.github.io/ivyillustrations/portrait-of-kathy-ii.html",
+            "url": "https://jamieklenetsky.github.io/ivyillustrations/portrait-of-kathy-ii.html",
+            "title": "Portrait of Kathy II",
+            "summary": "Portrait of Kathy II - 2013",
+            "content_html": "<p>Portrait of Kathy II - 2013</p>",
+            "image": "https://jamieklenetsky.github.io/ivyillustrations/media/posts/12/Klenetsky_Ivy_5.jpg",
+            "author": {
+                "name": "Ivy Klenetsky Halber"
+            },
+            "tags": [
+            ],
+            "date_published": "2015-07-26T19:16:07-04:00",
+            "date_modified": "2024-06-09T08:37:47-04:00"
+        },
+        {
+            "id": "https://jamieklenetsky.github.io/ivyillustrations/portrait-of-jason.html",
+            "url": "https://jamieklenetsky.github.io/ivyillustrations/portrait-of-jason.html",
+            "title": "Portrait of Jason",
+            "summary": "Portrait of Jason - 2011",
+            "content_html": "<p>Portrait of Jason - 2011</p>",
+            "image": "https://jamieklenetsky.github.io/ivyillustrations/media/posts/13/Klenetsky_Ivy_9.jpg",
+            "author": {
+                "name": "Ivy Klenetsky Halber"
+            },
+            "tags": [
+            ],
+            "date_published": "2015-07-26T19:15:52-04:00",
+            "date_modified": "2024-06-09T08:37:59-04:00"
+        },
+        {
+            "id": "https://jamieklenetsky.github.io/ivyillustrations/jason-detail.html",
+            "url": "https://jamieklenetsky.github.io/ivyillustrations/jason-detail.html",
+            "title": "Jason (Detail)",
+            "summary": "Jason (Detail) - 2011",
+            "content_html": "<p>Jason (Detail) - 2011</p>",
+            "image": "https://jamieklenetsky.github.io/ivyillustrations/media/posts/14/Klenetsky_Ivy_10.jpg",
+            "author": {
+                "name": "Ivy Klenetsky Halber"
+            },
+            "tags": [
+            ],
+            "date_published": "2015-07-26T19:14:46-04:00",
+            "date_modified": "2024-06-09T08:37:54-04:00"
+        },
+        {
+            "id": "https://jamieklenetsky.github.io/ivyillustrations/young-man.html",
+            "url": "https://jamieklenetsky.github.io/ivyillustrations/young-man.html",
+            "title": "Young Man",
+            "summary": "Young Man",
+            "content_html": "<p>Young Man</p>",
+            "image": "https://jamieklenetsky.github.io/ivyillustrations/media/posts/7/Klenetsky_Ivy_16_Sketch_of_a_Boy.jpg",
+            "author": {
+                "name": "Ivy Klenetsky Halber"
+            },
+            "tags": [
+            ],
+            "date_published": "2015-07-26T19:09:57-04:00",
+            "date_modified": "2024-06-09T09:18:12-04:00"
+        }
+    ]
+}
