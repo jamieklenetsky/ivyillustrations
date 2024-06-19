@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Ivy&#x27;s Illustrations</title>
     <link href="https://ivyillustrations.com/feed.xml" rel="self" />
     <link href="https://ivyillustrations.com" />
@@ -16,8 +16,9 @@
         </author>
         <link href="https://ivyillustrations.com/jamie-and-brendan.html"/>
         <id>https://ivyillustrations.com/jamie-and-brendan.html</id>
+        <media:content url="https://ivyillustrations.com/media/posts/16/IMG_20150818_134552766_HDR-e1440943735808.jpg" medium="image" />
 
-        <updated>2024-06-09T10:32:26-04:00</updated>
+        <updated>2015-08-30T10:09:16-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ivyillustrations.com/media/posts/16/IMG_20150818_134552766_HDR-e1440943735808.jpg" alt="" />
@@ -26,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ivyillustrations.com/media/posts/16/IMG_20150818_134552766_HDR-e1440943735808.jpg" alt="" />
+                    <p><img src="https://ivyillustrations.com/media/posts/16/IMG_20150818_134552766_HDR-e1440943735808.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Jamie &amp; Brendan, 2015</p>
             ]]>
         </content>
@@ -38,8 +39,9 @@
         </author>
         <link href="https://ivyillustrations.com/bride.html"/>
         <id>https://ivyillustrations.com/bride.html</id>
+        <media:content url="https://ivyillustrations.com/media/posts/15/Bride-e1440943567730.jpg" medium="image" />
 
-        <updated>2024-06-17T19:53:05-04:00</updated>
+        <updated>2015-08-30T10:06:24-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ivyillustrations.com/media/posts/15/Bride-e1440943567730.jpg" alt="The artist in her wedding dress, holding a bouquet" />
@@ -48,7 +50,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ivyillustrations.com/media/posts/15/Bride-e1440943567730.jpg" alt="The artist in her wedding dress, holding a bouquet" />
+                    <p><img src="https://ivyillustrations.com/media/posts/15/Bride-e1440943567730.jpg" class="type:primaryImage" alt="The artist in her wedding dress, holding a bouquet" /></p>
                 <p>Bride, 2015</p>
             ]]>
         </content>
@@ -60,8 +62,9 @@
         </author>
         <link href="https://ivyillustrations.com/uncle-sam.html"/>
         <id>https://ivyillustrations.com/uncle-sam.html</id>
+        <media:content url="https://ivyillustrations.com/media/posts/8/unnamed-e1438815951270.jpg" medium="image" />
 
-        <updated>2024-06-09T10:35:25-04:00</updated>
+        <updated>2015-07-26T19:20:27-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ivyillustrations.com/media/posts/8/unnamed-e1438815951270.jpg" alt="" />
@@ -70,7 +73,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ivyillustrations.com/media/posts/8/unnamed-e1438815951270.jpg" alt="" />
+                    <p><img src="https://ivyillustrations.com/media/posts/8/unnamed-e1438815951270.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Uncle Sam - 2015</p>
             ]]>
         </content>
@@ -82,8 +85,9 @@
         </author>
         <link href="https://ivyillustrations.com/portrait-of-kathy.html"/>
         <id>https://ivyillustrations.com/portrait-of-kathy.html</id>
+        <media:content url="https://ivyillustrations.com/media/posts/9/Klenetsky_Ivy_1-1.jpg" medium="image" />
 
-        <updated>2024-06-09T10:35:17-04:00</updated>
+        <updated>2015-07-26T19:19:47-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ivyillustrations.com/media/posts/9/Klenetsky_Ivy_1-1.jpg" alt="" />
@@ -92,7 +96,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ivyillustrations.com/media/posts/9/Klenetsky_Ivy_1-1.jpg" alt="" />
+                    <p><img src="https://ivyillustrations.com/media/posts/9/Klenetsky_Ivy_1-1.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Portrait of Kathy - 2013</p>
             ]]>
         </content>
@@ -104,8 +108,9 @@
         </author>
         <link href="https://ivyillustrations.com/david-reading.html"/>
         <id>https://ivyillustrations.com/david-reading.html</id>
+        <media:content url="https://ivyillustrations.com/media/posts/10/Klenetsky_Ivy_2987x1000.jpg" medium="image" />
 
-        <updated>2024-06-09T10:35:07-04:00</updated>
+        <updated>2015-07-26T19:18:54-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ivyillustrations.com/media/posts/10/Klenetsky_Ivy_2987x1000.jpg" alt="" />
@@ -114,7 +119,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ivyillustrations.com/media/posts/10/Klenetsky_Ivy_2987x1000.jpg" alt="" />
+                    <p><img src="https://ivyillustrations.com/media/posts/10/Klenetsky_Ivy_2987x1000.jpg" class="type:primaryImage" alt="" /></p>
                 <p>David Reading - 2013</p>
             ]]>
         </content>
@@ -126,8 +131,9 @@
         </author>
         <link href="https://ivyillustrations.com/portrait-of-a-woman.html"/>
         <id>https://ivyillustrations.com/portrait-of-a-woman.html</id>
+        <media:content url="https://ivyillustrations.com/media/posts/11/Klenetsky_Ivy_4.jpg" medium="image" />
 
-        <updated>2024-06-09T10:34:59-04:00</updated>
+        <updated>2015-07-26T19:17:10-04:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -138,8 +144,9 @@
         </author>
         <link href="https://ivyillustrations.com/portrait-of-kathy-ii.html"/>
         <id>https://ivyillustrations.com/portrait-of-kathy-ii.html</id>
+        <media:content url="https://ivyillustrations.com/media/posts/12/Klenetsky_Ivy_5.jpg" medium="image" />
 
-        <updated>2024-06-09T10:34:50-04:00</updated>
+        <updated>2015-07-26T19:16:07-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ivyillustrations.com/media/posts/12/Klenetsky_Ivy_5.jpg" alt="" />
@@ -148,7 +155,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ivyillustrations.com/media/posts/12/Klenetsky_Ivy_5.jpg" alt="" />
+                    <p><img src="https://ivyillustrations.com/media/posts/12/Klenetsky_Ivy_5.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Portrait of Kathy II - 2013</p>
             ]]>
         </content>
@@ -160,8 +167,9 @@
         </author>
         <link href="https://ivyillustrations.com/portrait-of-jason.html"/>
         <id>https://ivyillustrations.com/portrait-of-jason.html</id>
+        <media:content url="https://ivyillustrations.com/media/posts/13/Klenetsky_Ivy_9.jpg" medium="image" />
 
-        <updated>2024-06-09T10:34:40-04:00</updated>
+        <updated>2015-07-26T19:15:52-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ivyillustrations.com/media/posts/13/Klenetsky_Ivy_9.jpg" alt="" />
@@ -170,7 +178,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ivyillustrations.com/media/posts/13/Klenetsky_Ivy_9.jpg" alt="" />
+                    <p><img src="https://ivyillustrations.com/media/posts/13/Klenetsky_Ivy_9.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Portrait of Jason - 2011</p>
             ]]>
         </content>
@@ -182,8 +190,9 @@
         </author>
         <link href="https://ivyillustrations.com/jason-detail.html"/>
         <id>https://ivyillustrations.com/jason-detail.html</id>
+        <media:content url="https://ivyillustrations.com/media/posts/14/Klenetsky_Ivy_10.jpg" medium="image" />
 
-        <updated>2024-06-09T10:34:30-04:00</updated>
+        <updated>2015-07-26T19:14:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ivyillustrations.com/media/posts/14/Klenetsky_Ivy_10.jpg" alt="" />
@@ -192,7 +201,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ivyillustrations.com/media/posts/14/Klenetsky_Ivy_10.jpg" alt="" />
+                    <p><img src="https://ivyillustrations.com/media/posts/14/Klenetsky_Ivy_10.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Jason (Detail) - 2011</p>
             ]]>
         </content>
@@ -204,8 +213,9 @@
         </author>
         <link href="https://ivyillustrations.com/young-man.html"/>
         <id>https://ivyillustrations.com/young-man.html</id>
+        <media:content url="https://ivyillustrations.com/media/posts/7/Klenetsky_Ivy_16_Sketch_of_a_Boy.jpg" medium="image" />
 
-        <updated>2024-06-09T10:35:32-04:00</updated>
+        <updated>2015-07-26T19:09:57-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ivyillustrations.com/media/posts/7/Klenetsky_Ivy_16_Sketch_of_a_Boy.jpg" alt="" />
@@ -214,7 +224,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ivyillustrations.com/media/posts/7/Klenetsky_Ivy_16_Sketch_of_a_Boy.jpg" alt="" />
+                    <p><img src="https://ivyillustrations.com/media/posts/7/Klenetsky_Ivy_16_Sketch_of_a_Boy.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Young Man</p>
             ]]>
         </content>
